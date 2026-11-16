@@ -7,9 +7,9 @@ Provision, configure, and validate an enterprise-grade on-premises identity and 
 
 ## 🛠️ Environment & Architecture
 - **Hypervisor:** Ubuntu Linux (KVM / QEMU) managed via Cockpit (VirtIO drivers for storage and networking)
-- **Operating System:** Windows Server 2022 / 2025 (Desktop Experience)
+- **Operating System:** Windows Server 2022 (Desktop Experience)
 - **Domain Name:** `ApexTech.com` (`homelab.local`)
-- **Server Static IP:** `192.168.122.49`
+- **Server Static IP:** `192.168.122.22`
 
 ---
 
