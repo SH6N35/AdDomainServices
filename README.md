@@ -51,4 +51,14 @@ Provision, configure, and validate an enterprise-grade on-premises identity and 
 ---
 
 ## 📸 Lab Evidence
-*(Add screenshots of your Server Manager, Active Directory Users and Computers OU structure, and DNS Manager here inside an `images/` folder)*
+### Server Manager & Installed Roles
+![Server Manager Dashboard](<Server Dash.png>)
+
+### Active Directory Organizational Units (OUs)
+![Active Directory OU Structure](<AD users.png>)
+
+### DNS Manager & Forward Lookup Zone
+![DNS Forward Lookup Zone](<DNS manager.png>)
+
+### Static IP & Loopback DNS Configuration
+![IPv4 Network Properties](<IPconfig.png>)
