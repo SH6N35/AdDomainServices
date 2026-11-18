@@ -1,4 +1,4 @@
-# Lab 01: Active Directory Domain Services (AD DS), DNS, & DHCP Setup
+## Active Directory Domain Services (AD DS), DNS, & DHCP Setup
 
 ## 🎯 Objective
 Provision, configure, and validate an enterprise-grade on-premises identity and core network services infrastructure using Windows Server and a virtualized homelab environment.
